@@ -1,0 +1,7 @@
+E:\IT\C#\Img_Convert\Test_Img_Convert\Test_Img_Convert\bin\Debug\Test_Img_Convert.exe.config
+E:\IT\C#\Img_Convert\Test_Img_Convert\Test_Img_Convert\bin\Debug\Test_Img_Convert.exe
+E:\IT\C#\Img_Convert\Test_Img_Convert\Test_Img_Convert\bin\Debug\Test_Img_Convert.pdb
+E:\IT\C#\Img_Convert\Test_Img_Convert\Test_Img_Convert\obj\Debug\Test_Img_Convert.csprojAssemblyReference.cache
+E:\IT\C#\Img_Convert\Test_Img_Convert\Test_Img_Convert\obj\Debug\Test_Img_Convert.csproj.CoreCompileInputs.cache
+E:\IT\C#\Img_Convert\Test_Img_Convert\Test_Img_Convert\obj\Debug\Test_Img_Convert.exe
+E:\IT\C#\Img_Convert\Test_Img_Convert\Test_Img_Convert\obj\Debug\Test_Img_Convert.pdb
